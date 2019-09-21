@@ -1,0 +1,8 @@
+tabs:
+  css:
+    component:
+      css/tabs.css: {}
+  dependencies:
+    - core/jquery  
+  js:
+    js/tabs.js: {}
